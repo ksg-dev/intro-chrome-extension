@@ -1,0 +1,11 @@
+{
+  "name": "US Latest Population Data",
+  "version": "1.0.0",
+  "description": "latest population data for US",
+  "manifest_version": 3,
+  "author": "ksg-dev",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Latest Annual US Population"
+  }
+}
